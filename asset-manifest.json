@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Fluch2001/portfolio.git/static/css/main.f5a3f2e7.css",
-    "main.js": "/Fluch2001/portfolio.git/static/js/main.e09d4aa4.js",
-    "static/media/portfolio6.jpg": "/Fluch2001/portfolio.git/static/media/portfolio6.9091920476802582248a.jpg",
-    "static/media/cv.pdf": "/Fluch2001/portfolio.git/static/media/cv.08dec434addb1fd81f77.pdf",
-    "static/media/fiverr-1.png": "/Fluch2001/portfolio.git/static/media/fiverr-1.413984df260b594f7433.png",
-    "static/media/portfolio2.jpg": "/Fluch2001/portfolio.git/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
-    "static/media/portfolio1.jpg": "/Fluch2001/portfolio.git/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
-    "static/media/portfolio3.jpg": "/Fluch2001/portfolio.git/static/media/portfolio3.cbab42559fe73e73906f.jpg",
-    "static/media/portfolio4.jpg": "/Fluch2001/portfolio.git/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
-    "static/media/zyro-image.png": "/Fluch2001/portfolio.git/static/media/zyro-image.2095840dd45519001ad7.png",
-    "static/media/me2-about.png": "/Fluch2001/portfolio.git/static/media/me2-about.cd4a66c045b038c41a67.png",
-    "index.html": "/Fluch2001/portfolio.git/index.html",
-    "main.f5a3f2e7.css.map": "/Fluch2001/portfolio.git/static/css/main.f5a3f2e7.css.map",
-    "main.e09d4aa4.js.map": "/Fluch2001/portfolio.git/static/js/main.e09d4aa4.js.map"
+    "main.css": "/portfolio/static/css/main.f5a3f2e7.css",
+    "main.js": "/portfolio/static/js/main.d82de75b.js",
+    "static/media/portfolio6.jpg": "/portfolio/static/media/portfolio6.9091920476802582248a.jpg",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.08dec434addb1fd81f77.pdf",
+    "static/media/fiverr-1.png": "/portfolio/static/media/fiverr-1.413984df260b594f7433.png",
+    "static/media/portfolio2.jpg": "/portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio1.jpg": "/portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/zyro-image.png": "/portfolio/static/media/zyro-image.2095840dd45519001ad7.png",
+    "static/media/me2-about.png": "/portfolio/static/media/me2-about.cd4a66c045b038c41a67.png",
+    "index.html": "/portfolio/index.html",
+    "main.f5a3f2e7.css.map": "/portfolio/static/css/main.f5a3f2e7.css.map",
+    "main.d82de75b.js.map": "/portfolio/static/js/main.d82de75b.js.map"
   },
   "entrypoints": [
     "static/css/main.f5a3f2e7.css",
-    "static/js/main.e09d4aa4.js"
+    "static/js/main.d82de75b.js"
   ]
 }
